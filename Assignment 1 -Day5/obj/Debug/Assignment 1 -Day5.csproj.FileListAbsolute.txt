@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 1-Day5\Assignment 1 -Day5\bin\Debug\Assignment 1 -Day5.exe.config
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 1-Day5\Assignment 1 -Day5\bin\Debug\Assignment 1 -Day5.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 1-Day5\Assignment 1 -Day5\bin\Debug\Assignment 1 -Day5.pdb
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 1-Day5\Assignment 1 -Day5\obj\Debug\Assignment 1 -Day5.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 1-Day5\Assignment 1 -Day5\obj\Debug\Assignment 1 -Day5.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 1-Day5\Assignment 1 -Day5\obj\Debug\Assignment 1 -Day5.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 1-Day5\Assignment 1 -Day5\obj\Debug\Assignment 1 -Day5.pdb
